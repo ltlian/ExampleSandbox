@@ -1,6 +1,6 @@
 # Sandbox API
 
-A reference project for setting up a .NET5 Web API.
+A reference project for setting up a .NET5 Web API with unit tests, Swagger, and Application insights.
 
 ## Enable request logging
 
